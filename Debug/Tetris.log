@@ -1,0 +1,3 @@
+﻿  Tetris.cpp
+C:\Users\IT-STEP-\source\repos\Tetris\Tetris\Tetris.cpp(102,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris.vcxproj -> C:\Users\IT-STEP-\source\repos\Tetris\Debug\Tetris.exe
